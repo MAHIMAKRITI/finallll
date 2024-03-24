@@ -365,7 +365,7 @@ from gtts import gTTS
 from io import BytesIO
 import base64
 import os
-import librosa
+#import librosa
 import numpy as np
 import speech_recognition as sr
 import math
